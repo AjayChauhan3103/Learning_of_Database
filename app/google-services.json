@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955451204724",
+    "project_id": "learning-of-database",
+    "storage_bucket": "learning-of-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955451204724:android:dfe066e6b756abc1c19d21",
+        "android_client_info": {
+          "package_name": "com.example.learningofdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955451204724-utd8u7l2u87t9c2ol0lajubiuvao94ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQsCidlPydrjLkwYHmWkU0KCIsnMOz1IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955451204724-utd8u7l2u87t9c2ol0lajubiuvao94ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
